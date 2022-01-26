@@ -1,0 +1,11 @@
+.shop {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    flex-basis: 26%;
+}
+.list {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
